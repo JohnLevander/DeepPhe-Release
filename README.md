@@ -1,6 +1,6 @@
 DeepPhe
 =======
-
+https://github.com/JohnLevander/DeepPhe-Release/workflows/CI/badge.svg
 # Cancer Deep Phenotype Extraction (DeepPhe) Project
 ## Introduction v0.3.0
 
