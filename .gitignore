@@ -16,6 +16,7 @@
 /deepphe.iml
 /MyDocSum.piper
 *.iml
+.DS_Store
 /git.Pull.manual.history.txt
 /output_graph
 /deepphe-neo4j/target/
